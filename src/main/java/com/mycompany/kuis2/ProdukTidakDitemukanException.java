@@ -1,0 +1,7 @@
+package com.mycompany.kuis2;
+
+public class ProdukTidakDitemukanException extends Exception {
+    public ProdukTidakDitemukanException(String pesan) {
+        super(pesan);
+    }
+}

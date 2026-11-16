@@ -1,0 +1,20 @@
+==================================================
+           LAPORAN DAFTAR AKTOR AKTIF             
+           TOKO DIGITAL: TOKO SUKSES MAKMUR
+==================================================
+Waktu Cetak Laporan : Mon Nov 16 10:39:15 WIB 2026
+Total Aktor Aktif   : 2 Pelanggan
+--------------------------------------------------
+DAFTAR PELANGGAN TERDAFTAR (ITERASI HASHMAP .values()):
+--------------------------------------------------
+1. ID Pelanggan : ACT-01     | Nama Pelanggan: Andi
+2. ID Pelanggan : ACT-02     | Nama Pelanggan: Rina
+--------------------------------------------------
+CATATAN TAMBAHAN: STATUS STOK TERAKHIR SETELAH TRANSAKSI
+--------------------------------------------------
+- [OBJ-A] Laptop Premium       -> Sisa Stok: 6 unit
+- [OBJ-B] Kemeja Reguler       -> Sisa Stok: 2 unit
+- [OBJ-C] Snack Ekonomis       -> Sisa Stok: 48 unit
+==================================================
+               AKHIR DARI LAPORAN                 
+==================================================
